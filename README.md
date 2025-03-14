@@ -7,6 +7,6 @@ This Power BI dashboard analyzes PhoneNow's sales performance, customer trends, 
 - Customer segmentation
 
 ### How to Use:
-- Download `PhoneNow PWC.pbix`
+- Download 'PhoneNow PWC.pbix'
 - Open in Microsoft Power BI
 - Refresh data if required
